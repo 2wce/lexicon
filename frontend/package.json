@@ -50,7 +50,7 @@
     "react-native-keyboard-aware-scroll-view": "^0.9.4",
     "react-native-markdown-display": "6.1.1",
     "react-native-parsed-text": "^0.0.22",
-    "react-native-reanimated": "~2.2.0",
+    "react-native-reanimated": "~2.10.0",
     "react-native-safe-area-context": "3.2.0",
     "react-native-screens": "~3.4.0",
     "react-native-svg": "12.1.1",
